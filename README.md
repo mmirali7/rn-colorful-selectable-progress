@@ -4,11 +4,11 @@ selectable progress bar with colorful ui for react native
 
 
 **install**
-
+```
 yarn add rn-colorful-selectable-progress
 or
 npm install --save rn-colorful-selectable-progress
-
+```
 
 **usage**
 ```
