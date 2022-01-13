@@ -11,7 +11,7 @@ npm install --save rn-colorful-selectable-progress
 
 
 **usage**
-
+```
 import React from 'react';
 import {StyleSheet, View} from 'react-native';
 import {ProgressBar} from 'rn-colorful-selectable-progress';
@@ -29,3 +29,4 @@ export default function App() {
     </View>
   );
 }
+```
